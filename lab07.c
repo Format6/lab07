@@ -1,7 +1,7 @@
 /**
  \file main.c
  \brief Execution of laboratory work 7
- \author Romanenko Dmitry
+ \author Romanenko 
  \version 1
  \date 25.12.2020
 */
